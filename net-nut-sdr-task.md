@@ -117,8 +117,9 @@ Tired of constantly hitting blocks and CAPTCHAs when collecting product data fro
 
 ### 📸 **Screenshots**
 
-![alt text](image.png)
-![alt text](image-1.png)
+<img width="1918" height="936" alt="Screenshot 2025-07-13 at 16 18 01" src="https://github.com/user-attachments/assets/85b198d8-1114-40c4-9638-bc8f1e892e3b" />
+<img width="1926" height="933" alt="Screenshot 2025-07-13 at 16 18 35" src="https://github.com/user-attachments/assets/d311b03c-4caf-49cb-91a8-49ae376f2a89" />
+
 ---
 
 ## 3. SDR AI Automation Workflow - Technical Implementation
@@ -316,4 +317,5 @@ Payload: {
 
 ### 📸 **Screenshots**
 
-![alt text](image-2.png)
+<img width="1924" height="936" alt="Screenshot 2025-07-13 at 16 24 56" src="https://github.com/user-attachments/assets/e65bc989-67cb-4e22-b0a1-76cbebc980a7" />
+
