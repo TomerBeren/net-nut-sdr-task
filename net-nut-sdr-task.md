@@ -46,7 +46,7 @@ NetNut Proxy Solutions
 
 ### 📸 **Screenshots**
 
-![alt text](<Screenshot 2025-07-13 at 15.58.46.png>)
+<img width="1922" height="936" alt="Screenshot 2025-07-13 at 15 58 46" src="https://github.com/user-attachments/assets/9bd31fe4-995e-4864-8286-09c20d9587b9" />
 
 ---
 
