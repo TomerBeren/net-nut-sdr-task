@@ -30,6 +30,8 @@ NetNut is ideal for your needs. Our hybrid network delivers the fastest speeds o
 
 With our 24/7 support team and premium infrastructure, you'll have reliable access to clean residential and datacenter IPs that won't get blocked.
 
+Need Google data? Our purpose-built SERP API delivers fully parsed search results—organic listings, ads, Maps, the works—while NetNut invisibly handles all IP rotation and CAPTCHA challenges for you. Just hit one endpoint and get clean JSON you can plug straight into your pipeline.
+
 To recommend the optimal setup for you:
 
 - What's your expected monthly data volume?
